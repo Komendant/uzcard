@@ -1,0 +1,6 @@
+<?
+global $MESS;
+
+$MESS["SALE_HANDLERS_PAY_SYSTEM_UZCARD_REDIRECT_MESS"] = "Далее";
+
+?>

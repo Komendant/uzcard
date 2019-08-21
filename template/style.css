@@ -1,0 +1,11 @@
+.sale-paysystem-uzcard-button-container input, 
+.sale-paysystem-uzcard-button-container input:focus
+{
+	width: 300px !important;
+    border: .125rem solid #15c284 !important;
+}
+.sale-paysystem-uzcard-wrapper {
+	width: 300px;
+	margin: 0 auto;
+	text-align: center;
+}
